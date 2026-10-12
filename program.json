@@ -1,0 +1,614 @@
+[
+  {
+    "block": 1,
+    "slot": 0,
+    "title": "Chest + Shoulders",
+    "exercises": [
+      {
+        "name": "Incline Dumbbell Press",
+        "sets": 3,
+        "reps": "8\u201312",
+        "rest": 90,
+        "cue": "Upper chest",
+        "pair": 0
+      },
+      {
+        "name": "Chest Supported Incline Dumbbell Row",
+        "sets": 3,
+        "reps": "8\u201312",
+        "rest": 90,
+        "cue": "Keep chest on bench",
+        "pair": 0
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "sets": 3,
+        "reps": "12\u201315",
+        "rest": 45,
+        "cue": "Control lowering",
+        "pair": 1
+      },
+      {
+        "name": "Close Grip Dumbbell Bench Press",
+        "sets": 2,
+        "reps": "10\u201312",
+        "rest": 60,
+        "cue": "Triceps and chest",
+        "pair": 1
+      },
+      {
+        "name": "Hanging Leg Raise",
+        "sets": 2,
+        "reps": "8\u201312",
+        "rest": 45,
+        "cue": "Avoid swinging",
+        "pair": 2
+      }
+    ]
+  },
+  {
+    "block": 1,
+    "slot": 1,
+    "title": "Lower Body + Core",
+    "exercises": [
+      {
+        "name": "Goblet Squat",
+        "sets": 3,
+        "reps": "8\u201312",
+        "rest": 90,
+        "cue": "Full comfortable depth",
+        "pair": 0
+      },
+      {
+        "name": "Romanian Deadlift",
+        "sets": 3,
+        "reps": "8\u201312",
+        "rest": 90,
+        "cue": "Hinge and control",
+        "pair": 0
+      },
+      {
+        "name": "Walking Lunge",
+        "sets": 2,
+        "reps": "10/leg",
+        "rest": 60,
+        "cue": "Smooth steps",
+        "pair": 1
+      },
+      {
+        "name": "Standing Calf Raise",
+        "sets": 2,
+        "reps": "12\u201320",
+        "rest": 45,
+        "cue": "Pause at top",
+        "pair": 1
+      },
+      {
+        "name": "Rope Crunch",
+        "sets": 2,
+        "reps": "12\u201315",
+        "rest": 45,
+        "cue": "If no cable: reverse crunch",
+        "pair": 2
+      }
+    ]
+  },
+  {
+    "block": 1,
+    "slot": 2,
+    "title": "Back + Arms",
+    "exercises": [
+      {
+        "name": "Standing Military Press",
+        "sets": 3,
+        "reps": "6\u201310",
+        "rest": 90,
+        "cue": "Keep ribs stacked",
+        "pair": 0
+      },
+      {
+        "name": "Lat Pulldown",
+        "sets": 3,
+        "reps": "8\u201312",
+        "rest": 75,
+        "cue": "Full range",
+        "pair": 0
+      },
+      {
+        "name": "Seated Side Laterals",
+        "sets": 3,
+        "reps": "12\u201315",
+        "rest": 45,
+        "cue": "No swinging",
+        "pair": 1
+      },
+      {
+        "name": "Spider Concentration Curl",
+        "sets": 2,
+        "reps": "10\u201312",
+        "rest": 45,
+        "cue": "Strict curl",
+        "pair": 1
+      },
+      {
+        "name": "Skull Crusher",
+        "sets": 2,
+        "reps": "10\u201312",
+        "rest": 45,
+        "cue": "Comfortable elbows",
+        "pair": 1
+      },
+      {
+        "name": "Hanging Leg Raise",
+        "sets": 2,
+        "reps": "8\u201312",
+        "rest": 45,
+        "cue": "Controlled pelvis",
+        "pair": 2
+      }
+    ]
+  },
+  {
+    "block": 1,
+    "slot": 3,
+    "title": "Upper Body + Abs",
+    "exercises": [
+      {
+        "name": "Bench Press",
+        "sets": 3,
+        "reps": "6\u201310",
+        "rest": 105,
+        "cue": "Do ramp-up sets first",
+        "pair": 0
+      },
+      {
+        "name": "Single Arm Dumbbell Row",
+        "sets": 3,
+        "reps": "10/side",
+        "rest": 75,
+        "cue": "Control eccentric",
+        "pair": 0
+      },
+      {
+        "name": "Incline Dumbbell Curl",
+        "sets": 2,
+        "reps": "10\u201312",
+        "rest": 45,
+        "cue": "Full ROM",
+        "pair": 1
+      },
+      {
+        "name": "Rear Delt Flye",
+        "sets": 2,
+        "reps": "12\u201315",
+        "rest": 45,
+        "cue": "Control reps",
+        "pair": 1
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "sets": 2,
+        "reps": "12\u201315",
+        "rest": 45,
+        "cue": "No shrug",
+        "pair": 1
+      },
+      {
+        "name": "Rope Crunch",
+        "sets": 2,
+        "reps": "12\u201320",
+        "rest": 45,
+        "cue": "Exhale at top",
+        "pair": 2
+      }
+    ]
+  },
+  {
+    "block": 2,
+    "slot": 0,
+    "title": "Chest + Shoulders",
+    "exercises": [
+      {
+        "name": "Incline Dumbbell Press",
+        "sets": 3,
+        "reps": "8\u201312",
+        "rest": 90,
+        "cue": "Upper chest",
+        "pair": 0
+      },
+      {
+        "name": "Chest Supported Dumbbell Row",
+        "sets": 3,
+        "reps": "8\u201312",
+        "rest": 75,
+        "cue": "Shoulder blades move",
+        "pair": 0
+      },
+      {
+        "name": "Seated Side Laterals",
+        "sets": 3,
+        "reps": "12\u201315",
+        "rest": 45,
+        "cue": "Strict",
+        "pair": 1
+      },
+      {
+        "name": "Close Grip Bench Press",
+        "sets": 2,
+        "reps": "8\u201312",
+        "rest": 75,
+        "cue": "Triceps",
+        "pair": 1
+      },
+      {
+        "name": "Hanging Leg Raise",
+        "sets": 2,
+        "reps": "8\u201312",
+        "rest": 45,
+        "cue": "Controlled",
+        "pair": 2
+      }
+    ]
+  },
+  {
+    "block": 2,
+    "slot": 1,
+    "title": "Lower Body + Core",
+    "exercises": [
+      {
+        "name": "Leg Press",
+        "sets": 3,
+        "reps": "10\u201312",
+        "rest": 90,
+        "cue": "Keep hips down",
+        "pair": 0
+      },
+      {
+        "name": "Romanian Deadlift",
+        "sets": 3,
+        "reps": "8\u201310",
+        "rest": 90,
+        "cue": "Neutral spine",
+        "pair": 0
+      },
+      {
+        "name": "Smith Machine Split Squat",
+        "sets": 2,
+        "reps": "8\u201310/leg",
+        "rest": 60,
+        "cue": "Or dumbbells",
+        "pair": 1
+      },
+      {
+        "name": "Seated Leg Curl",
+        "sets": 2,
+        "reps": "12\u201315",
+        "rest": 45,
+        "cue": "Control return",
+        "pair": 1
+      },
+      {
+        "name": "Rope Crunch",
+        "sets": 2,
+        "reps": "12\u201315",
+        "rest": 45,
+        "cue": "Slow",
+        "pair": 2
+      }
+    ]
+  },
+  {
+    "block": 2,
+    "slot": 2,
+    "title": "Back + Arms",
+    "exercises": [
+      {
+        "name": "Standing Military Press",
+        "sets": 3,
+        "reps": "6\u201310",
+        "rest": 90,
+        "cue": "Brace",
+        "pair": 0
+      },
+      {
+        "name": "Lat Pulldown",
+        "sets": 3,
+        "reps": "8\u201312",
+        "rest": 75,
+        "cue": "Controlled",
+        "pair": 0
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "sets": 3,
+        "reps": "12\u201320",
+        "rest": 45,
+        "cue": "Side delts",
+        "pair": 1
+      },
+      {
+        "name": "Incline Dumbbell Curl",
+        "sets": 2,
+        "reps": "10\u201312",
+        "rest": 45,
+        "cue": "Slow lowering",
+        "pair": 1
+      },
+      {
+        "name": "Skull Crusher",
+        "sets": 2,
+        "reps": "10\u201312",
+        "rest": 45,
+        "cue": "Comfortable range",
+        "pair": 1
+      },
+      {
+        "name": "Hanging Leg Raise",
+        "sets": 2,
+        "reps": "10\u201315",
+        "rest": 45,
+        "cue": "Controlled",
+        "pair": 2
+      }
+    ]
+  },
+  {
+    "block": 2,
+    "slot": 3,
+    "title": "Upper Body + Abs",
+    "exercises": [
+      {
+        "name": "Bench Press",
+        "sets": 3,
+        "reps": "6\u201310",
+        "rest": 105,
+        "cue": "Control descent",
+        "pair": 0
+      },
+      {
+        "name": "Single Arm Dumbbell Row",
+        "sets": 3,
+        "reps": "8\u201312/side",
+        "rest": 75,
+        "cue": "Balanced",
+        "pair": 0
+      },
+      {
+        "name": "Hammer Curl",
+        "sets": 2,
+        "reps": "10\u201312",
+        "rest": 45,
+        "cue": "No swinging",
+        "pair": 1
+      },
+      {
+        "name": "Rear Delt Flye",
+        "sets": 2,
+        "reps": "12\u201315",
+        "rest": 45,
+        "cue": "Rear shoulders",
+        "pair": 1
+      },
+      {
+        "name": "Seated Side Laterals",
+        "sets": 2,
+        "reps": "12\u201320",
+        "rest": 45,
+        "cue": "Strict",
+        "pair": 1
+      },
+      {
+        "name": "Rope Crunch",
+        "sets": 2,
+        "reps": "15\u201320",
+        "rest": 45,
+        "cue": "No hip hinge",
+        "pair": 2
+      }
+    ]
+  },
+  {
+    "block": 3,
+    "slot": 0,
+    "title": "Chest + Shoulders",
+    "exercises": [
+      {
+        "name": "Incline Dumbbell Press",
+        "sets": 3,
+        "reps": "8\u201312",
+        "rest": 90,
+        "cue": "Control lowering",
+        "pair": 0
+      },
+      {
+        "name": "Chest Supported Incline Dumbbell Row",
+        "sets": 3,
+        "reps": "8\u201312",
+        "rest": 75,
+        "cue": "Full ROM",
+        "pair": 0
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "sets": 3,
+        "reps": "12\u201320",
+        "rest": 45,
+        "cue": "Controlled",
+        "pair": 1
+      },
+      {
+        "name": "Close Grip Dumbbell Bench Press",
+        "sets": 2,
+        "reps": "10\u201312",
+        "rest": 60,
+        "cue": "Triceps",
+        "pair": 1
+      },
+      {
+        "name": "Hanging Leg Raise",
+        "sets": 2,
+        "reps": "10\u201315",
+        "rest": 45,
+        "cue": "Controlled",
+        "pair": 2
+      }
+    ]
+  },
+  {
+    "block": 3,
+    "slot": 1,
+    "title": "Lower Body + Core",
+    "exercises": [
+      {
+        "name": "Goblet Squat",
+        "sets": 3,
+        "reps": "10\u201312",
+        "rest": 90,
+        "cue": "Or front squat",
+        "pair": 0
+      },
+      {
+        "name": "Romanian Deadlift",
+        "sets": 3,
+        "reps": "8\u201312",
+        "rest": 90,
+        "cue": "Control eccentric",
+        "pair": 0
+      },
+      {
+        "name": "Walking Lunge",
+        "sets": 2,
+        "reps": "10/leg",
+        "rest": 60,
+        "cue": "Even steps",
+        "pair": 1
+      },
+      {
+        "name": "Seated Leg Curl",
+        "sets": 2,
+        "reps": "12\u201315",
+        "rest": 45,
+        "cue": "If available",
+        "pair": 1
+      },
+      {
+        "name": "Rope Crunch",
+        "sets": 2,
+        "reps": "15\u201320",
+        "rest": 45,
+        "cue": "Slow",
+        "pair": 2
+      }
+    ]
+  },
+  {
+    "block": 3,
+    "slot": 2,
+    "title": "Back + Arms",
+    "exercises": [
+      {
+        "name": "Standing Military Press",
+        "sets": 3,
+        "reps": "6\u201310",
+        "rest": 90,
+        "cue": "Brace",
+        "pair": 0
+      },
+      {
+        "name": "Lat Pulldown",
+        "sets": 3,
+        "reps": "8\u201312",
+        "rest": 75,
+        "cue": "Control",
+        "pair": 0
+      },
+      {
+        "name": "Seated Side Laterals",
+        "sets": 3,
+        "reps": "12\u201320",
+        "rest": 45,
+        "cue": "No shrug",
+        "pair": 1
+      },
+      {
+        "name": "Spider Concentration Curl",
+        "sets": 2,
+        "reps": "10\u201312",
+        "rest": 45,
+        "cue": "Strict",
+        "pair": 1
+      },
+      {
+        "name": "Skull Crusher",
+        "sets": 2,
+        "reps": "10\u201312",
+        "rest": 45,
+        "cue": "Controlled",
+        "pair": 1
+      },
+      {
+        "name": "Hanging Leg Raise",
+        "sets": 2,
+        "reps": "10\u201315",
+        "rest": 45,
+        "cue": "Pelvis curls up",
+        "pair": 2
+      }
+    ]
+  },
+  {
+    "block": 3,
+    "slot": 3,
+    "title": "Upper Body + Abs",
+    "exercises": [
+      {
+        "name": "Bench Press",
+        "sets": 3,
+        "reps": "6\u201310",
+        "rest": 105,
+        "cue": "Ramp up first",
+        "pair": 0
+      },
+      {
+        "name": "Chest Supported Dumbbell Row",
+        "sets": 3,
+        "reps": "10\u201312",
+        "rest": 75,
+        "cue": "No momentum",
+        "pair": 0
+      },
+      {
+        "name": "Incline Dumbbell Curl",
+        "sets": 2,
+        "reps": "10\u201312",
+        "rest": 45,
+        "cue": "Full ROM",
+        "pair": 1
+      },
+      {
+        "name": "Rear Delt Flye",
+        "sets": 2,
+        "reps": "12\u201320",
+        "rest": 45,
+        "cue": "Control",
+        "pair": 1
+      },
+      {
+        "name": "Dumbbell Lateral Raise",
+        "sets": 2,
+        "reps": "12\u201320",
+        "rest": 45,
+        "cue": "Strict",
+        "pair": 1
+      },
+      {
+        "name": "Rope Crunch",
+        "sets": 2,
+        "reps": "15\u201320",
+        "rest": 45,
+        "cue": "Slow",
+        "pair": 2
+      }
+    ]
+  }
+]
