@@ -1,24 +1,24 @@
 {
-  "name": "FIT \u2014 Your Daily Coach",
+  "name": "FIT \u2014 Daily Workout Coach",
   "short_name": "FIT",
-  "description": "Your personal execution-first fitness coach. Open. Execute. Done.",
+  "description": "Open. Execute. Done.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f7f8ff",
-  "theme_color": "#574cdb",
+  "background_color": "#ffffff",
+  "theme_color": "#101519",
   "icons": [
     {
       "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
       "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     }
   ]
 }
